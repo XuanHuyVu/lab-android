@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="enter_a">Enter A</string>
+    <string name="enter_b">Enter B</string>
+    <string name="enter_c">Enter C</string>
+    <string name="add">Add</string>
+</resources>
